@@ -98,7 +98,7 @@ public class RPN {
     /**
      * 计算后缀表达式
      *
-     * @param tokens 后最表达式
+     * @param tokens 后缀表达式
      * @return 一个整数值
      */
     public double evalRPN(List<String> tokens) {
